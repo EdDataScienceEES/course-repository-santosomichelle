@@ -2,7 +2,7 @@
 #Name: Michelle Santoso
 #Date: October 14, 2021
 
-# PACKAGE LIBRARIES FOR THIS TUTORIAL
+# LOAD LIBRARIES FOR THIS TUTORIAL
 library(dplyr)     # for data manipulation
 library(ggplot2)   # for making graphs
 
