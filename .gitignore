@@ -18,4 +18,4 @@
 # Prevent users to commit the README files created by RStudio
 *README.html
 *README_cache/
-#*README_files/
+*README_files/
