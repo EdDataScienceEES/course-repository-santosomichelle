@@ -2,6 +2,9 @@
 #Name: Michelle Santoso
 #Date: October 14, 2021
 
+# Set working directory
+setwd("https://github.com/EdDataScienceEES/course-repository-santosomichelle.git")
+
 # LOAD LIBRARIES FOR THIS TUTORIAL
 library(dplyr)     # for data manipulation
 library(ggplot2)   # for making graphs
@@ -21,8 +24,6 @@ trees.summary <- summarise(trees.grouped, count = length(CommonName))
 trees.summary <- trees %>%    # the data frame object that will be passed in the pipe
   group_by(CommonName) %>%    # name grouping variable (not object)
   tally()                     # and we don't need anything at all here, it has been passed through the pipe!
-
-# Important notes: Pipes only work on data frame objects, and functions outside the tidyverse often require that you specify the data source with a full stop dot .. But as we will see later, you can still do advanced things while keeping these limitations in mind!
   
 # CLASSIFY 'Common Ash', 'Rowan', 'Scots Pine' BY AGE GROUP AND POPULATION
 trees.subset <- trees %>%
@@ -112,8 +113,6 @@ trees.five <- trees.genus %>%
 )
 
 # PLOT MAP FOR EACH TREE SPECIEFS
-
-
 tree.plots <-  
   trees.five  %>%      # the data frame
   group_by(Genus) %>%  # grouping by genus
@@ -138,11 +137,6 @@ tree.plots %>%              # the saving call within the do function
   do(., 
      ggsave(.$plots, filename = paste(getwd(), "/", "map-", .$Genus, ".png", sep = ""), device = "png", height = 12, width = 16, units = "cm"))
 
-# Change working directory
-setwd("~/Desktop/Data_Science_ESS/Efficient_Data_Manipulation_in_R/course-repository-santosomichelle")
-
-# Change working directory
-setwd("https://github.com/EdDataScienceEES/course-repository-santosomichelle.git")
 
 
 
