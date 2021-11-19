@@ -14,21 +14,27 @@ library(janitor)    # clean the names
 
 
 # Import data ----
-microplastics <- read.csv("inputs/microplastics.csv")
+survey <- read.csv("data/inputs/survey_responses.csv")
 
 
 # Data manipulation ----
 
-# This should work as the dataset for the map as well
-microplastics_reduced <- microplastics %>%
-  # Clean the names in the dataset
-  clean_names() %>%
-  # Select only relevant columns - only contains microplastics in mm/m3
-  # i.e. no macroplastics or mm/km2 data
-  dplyr::select(year, dec_lat_retrieve, dec_long_retrieve, 
-                sum_micro_m3, fibres_lte5mm_m3:paint_flakes_lte5mm_m3) %>%
-  # Filter out zero values in microplastics
-  dplyr::filter(sum_micro_m3 != 0)
+# Table dataset 
+survey_reduced <- survey %>% 
+  # Rename variables
+  rename(gender = What.is.your.sex.assigned.at.birth.,
+                  c_height = How.tall.are.you.in.cm.,
+                  m_height = How.tall.is.your.genetic.mother.in.cm.,
+                  d_height = How.tall.is.your.genetic.father.in.cm.) %>%
+  # # Select only relevant columns for Galton regression 
+  # i.e. children height, children gender, and biological parents heights)
+  select(gender, c_height, m_height, d_height) %>% 
+  # Adjust heights by transmuting female heights by a factor of 1.08
+  mutate(adj_c_height = c_height %>% 
+           case_when(gender = Female, c_height = c_height*1.08)) %>% 
+  # Calculate mean heights of parents 
+  mutate(mean_am_heights = mean(m_height, d_height))
+  
 
 
 # Dataset for the lollipop plot
