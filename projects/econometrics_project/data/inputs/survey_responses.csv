@@ -1,0 +1,104 @@
+Timestamp,What is your sex assigned at birth?,What type of high school did you attend?,Do you have any dietary restrictions?,What age are you?,What age is your genetic mother?,What age is your genetic father?,Do you have any pre-existing health conditions?,How tall are you in cm?,How tall is your genetic mother in cm?,How tall is your genetic father in cm?
+11/5/2021 13:59:28,Male,Private School,I do not have any dietary restrictions.,18-29,50-59,50-59,No,183,154,175
+11/5/2021 14:00:48,Male,Private School,I do not have any dietary restrictions.,18-29,60-69,70+,No,174,158,168
+11/5/2021 14:01:37,Male,State School,I do not have any dietary restrictions.,18-29,50-59,50-59,No,164,145,157
+11/5/2021 14:03:33,Female,Private School,I do not have any dietary restrictions.,18-29,50-59,40-49,No,165,163,170
+11/5/2021 14:04:33,Male,Private School,I do not have any dietary restrictions.,18-29,50-59,50-59,No,180,160,170
+11/5/2021 14:06:33,Male,Private School,No pork,18-29,50-59,50-59,No,175,157,170
+11/5/2021 14:09:29,Male,Private School,I do not have any dietary restrictions.,18-29,40-49,40-49,No,181,167,179
+11/5/2021 14:09:52,Female,State School,I do not have any dietary restrictions.,18-29,50-59,50-59,No,168,171,180
+11/5/2021 14:12:33,Male,State School,I do not have any dietary restrictions.,18-29,50-59,50-59,No,187,162,175
+11/5/2021 14:17:49,Female,State School,Gluten Free,18-29,50-59,50-59,No,163,168,180
+11/5/2021 14:18:23,Female,Private School,I do not have any dietary restrictions.,18-29,50-59,60-69,No,163,160,165
+11/5/2021 14:29:11,Male,Private School,I do not have any dietary restrictions.,50-59,70+,70+,No,179,165,170
+11/5/2021 14:30:47,Male,Private School,I do not have any dietary restrictions.,18-29,50-59,60-69,No,183,161,180
+11/5/2021 14:31:44,Male,Private School,I do not have any dietary restrictions.,18-29,40-49,50-59,No,194,169,189
+11/5/2021 14:37:50,Female,Private School,Pescatarian ,18-29,50-59,50-59,Yes,170,160,183
+11/5/2021 14:48:29,Male,Private School,No Shellfish,18-29,50-59,50-59,Yes,171,150,167
+11/5/2021 14:49:15,Female,State School,I do not have any dietary restrictions.,40-49,70+,70+,No,167,167,175
+11/5/2021 14:49:22,Male,State School,I do not have any dietary restrictions.,18-29,50-59,50-59,No,185,164,195
+11/5/2021 14:49:43,Male,Private School,I do not have any dietary restrictions.,18-29,40-49,50-59,No,174,160,170
+11/5/2021 14:55:29,Female,Private School,I do not have any dietary restrictions.,18-29,50-59,50-59,Yes,166,160,177
+11/5/2021 14:55:30,Male,Private School,I do not have any dietary restrictions.,18-29,40-49,60-69,No,160,155,150
+11/5/2021 15:13:10,Male,Private School,I do not have any dietary restrictions.,18-29,60-69,50-59,No,180,162,182
+11/5/2021 15:15:21,Male,Private School,I do not have any dietary restrictions.,18-29,50-59,50-59,No,170,150,173
+11/5/2021 15:19:06,Male,Private School,No Nuts,18-29,50-59,50-59,No,176,162,178
+11/5/2021 15:19:59,Male,Private School,I do not have any dietary restrictions.,18-29,40-49,50-59,No,190,172,182
+11/5/2021 15:29:11,Male,Private School,I do not have any dietary restrictions.,18-29,40-49,50-59,No,182,162,170
+11/5/2021 15:31:45,Male,Private School,I do not have any dietary restrictions.,18-29,60-69,50-59,No,184,170,180
+11/5/2021 15:35:03,Female,Private School,Lactose Intolerant,50-59,70+,70+,No,160,157,175
+11/5/2021 15:36:26,Male,Private School,I do not have any dietary restrictions.,18-29,50-59,50-59,No,178,160,179
+11/5/2021 15:57:20,Male,Private School,I do not have any dietary restrictions.,18-29,50-59,50-59,Yes,176,160,174
+11/5/2021 16:17:12,Male,State School,I do not have any dietary restrictions.,18-29,50-59,50-59,No,174,165,167
+11/5/2021 16:38:54,Female,Private School,I do not have any dietary restrictions.,18-29,60-69,50-59,No,169,174,160
+11/5/2021 16:42:23,Male,Private School,Halal,18-29,50-59,50-59,No,170,165,175
+11/5/2021 16:43:26,Male,Grammar School,I do not have any dietary restrictions.,18-29,50-59,50-59,No,172,163,178
+11/5/2021 16:44:34,Female,Private School,No Shellfish,18-29,50-59,50-59,No,163,160,175
+11/5/2021 16:44:43,Male,Private School,Vegetarian,18-29,40-49,50-59,No,176,167,170
+11/5/2021 16:49:41,Male,Private School,I do not have any dietary restrictions.,18-29,40-49,40-49,No,183,164,172
+11/5/2021 16:53:31,Female,Private School,I do not have any dietary restrictions.,18-29,50-59,50-59,No,170,168,170
+11/5/2021 16:58:39,Male,Private School,I do not have any dietary restrictions.,18-29,50-59,50-59,No,189,162,170
+11/5/2021 16:59:47,Male,Private School,Vegetarian,18-29,40-49,50-59,No,168,155,166
+11/5/2021 17:10:19,Female,Private School,No Nuts,18-29,50-59,50-59,No,154,158,162
+11/5/2021 17:10:28,Female,Private School,I do not have any dietary restrictions.,18-29,50-59,50-59,Yes,166,164,181
+11/5/2021 17:18:36,Male,Private School,I do not have any dietary restrictions.,18-29,40-49,50-59,Yes,181,165,176
+11/5/2021 17:26:08,Male,State School,I do not have any dietary restrictions.,18-29,50-59,50-59,No,177,152,176
+11/5/2021 17:53:18,Female,Private School,No Nuts,18-29,60-69,60-69,Yes,173,160,181
+11/5/2021 17:54:44,Female,Private School,Vegetarian,18-29,50-59,50-59,No,172,165,187
+11/5/2021 17:58:17,Female,Private School,No Nuts,18-29,60-69,60-69,Yes,173,171,183
+11/5/2021 18:11:12,Male,Private School,I do not have any dietary restrictions.,18-29,40-49,40-49,No,198,150,199
+11/5/2021 18:14:33,Female,Private School,I do not have any dietary restrictions.,18-29,60-69,60-69,No,175,155,185
+11/5/2021 19:03:13,Male,State School,"Spices, hot pepper",60-69,70+,70+,Yes,180,165,182
+11/5/2021 20:01:52,Male,Private School,Halal,18-29,40-49,50-59,No,177,150,175
+11/5/2021 20:50:32,Female,State School,I do not have any dietary restrictions.,60-69,70+,70+,No,168,165,185
+11/5/2021 20:51:03,Male,Private School,I do not have any dietary restrictions.,18-29,50-59,50-59,No,166,160,170
+11/5/2021 21:49:07,Male,State School,I do not have any dietary restrictions.,18-29,50-59,40-49,No,188,170,191
+11/5/2021 23:43:54,Female,Private School,I do not have any dietary restrictions.,18-29,50-59,50-59,Yes,165,162,178
+11/6/2021 5:38:01,Female,Private School,Vegetarian,18-29,50-59,60-69,No,164,162,172
+11/6/2021 11:46:42,Female,State School,I do not have any dietary restrictions.,18-29,40-49,40-49,No,158,155,170
+11/6/2021 13:23:18,Female,Private School,Halal ,50-59,70+,70+,No,158,178,178
+11/6/2021 13:41:29,Female,State School,I do not have any dietary restrictions.,30-39,60-69,60-69,No,156,158,165
+11/6/2021 13:44:13,Female,State School,I do not have any dietary restrictions.,50-59,70+,70+,No,160,165,180
+11/6/2021 13:46:44,Female,Private School,I do not have any dietary restrictions.,40-49,70+,70+,Yes,153,152,156
+11/6/2021 13:46:56,Female,State School,I do not have any dietary restrictions.,18-29,50-59,50-59,No,160,156,176
+11/6/2021 13:50:51,Female,State School,I do not have any dietary restrictions.,18-29,40-49,50-59,No,164,167,169
+11/6/2021 13:59:45,Female,State School,I do not have any dietary restrictions.,40-49,70+,70+,No,167,160,170
+11/6/2021 14:17:29,Female,State School,I do not have any dietary restrictions.,40-49,60-69,70+,No,165,150,170
+11/6/2021 14:27:05,Female,State School,I do not have any dietary restrictions.,40-49,70+,70+,No,165,166,180
+11/6/2021 14:28:09,Female,Private School,I do not have any dietary restrictions.,50-59,70+,70+,Yes,155,155,170
+11/6/2021 14:32:57,Female,State School,I do not have any dietary restrictions.,30-39,60-69,60-69,No,163,156,160
+11/6/2021 14:33:39,Female,State School,I do not have any dietary restrictions.,40-49,70+,70+,No,164,166,165
+11/6/2021 14:43:15,Female,Private School,I do not have any dietary restrictions.,18-29,40-49,50-59,No,154,155,180
+11/6/2021 15:22:28,Female,State School,I do not have any dietary restrictions.,30-39,70+,70+,No,164,158,177
+11/6/2021 15:24:53,Female,State School,I do not have any dietary restrictions.,30-39,60-69,60-69,No,158,160,160
+11/6/2021 19:19:09,Female,State School,I do not have any dietary restrictions.,60-69,70+,70+,No,157,175,165
+11/6/2021 19:39:44,Female,Private School,I do not have any dietary restrictions.,30-39,50-59,60-69,No,174,169,176
+11/6/2021 20:42:07,Female,State School,I do not have any dietary restrictions.,60-69,70+,70+,Yes,178,170,156
+11/6/2021 20:51:53,Female,Grammar School,Vegan,18-29,50-59,60-69,Yes,167,172,180
+11/6/2021 20:56:55,Male,Private School,I do not have any dietary restrictions.,18-29,40-49,50-59,No,185,175,192
+11/6/2021 20:59:29,Female,Private School,No Shellfish,30-39,60-69,60-69,No,164,164,178
+11/7/2021 4:16:51,Female,Private School,I do not have any dietary restrictions.,30-39,60-69,70+,Yes,160,158,175
+11/7/2021 12:55:36,Male,State School,Lactose Intolerant,18-29,40-49,50-59,No,175,140,160
+11/7/2021 15:16:49,Female,State School,Vegetarian,18-29,50-59,50-59,No,163,162,166
+11/8/2021 5:49:38,Female,State School,I do not have any dietary restrictions.,40-49,30-39,70+,No,150,155,165
+11/8/2021 13:35:30,Female,Private School,No Nuts,40-49,70+,70+,No,152,150,160
+11/8/2021 14:44:57,Female,Private School,Gluten Free,50-59,70+,70+,No,155,153,160
+11/8/2021 14:49:47,Female,Private School,I do not have any dietary restrictions.,50-59,70+,70+,No,161,161,167
+11/8/2021 15:03:42,Female,Private School,I do not have any dietary restrictions.,40-49,70+,70+,No,164,160,165
+11/8/2021 15:10:18,Female,Private School,Flexitarian / Pescatarian ,18-29,50-59,50-59,No,158,158,168
+11/8/2021 15:15:08,Female,Private School,I do not have any dietary restrictions.,18-29,40-49,40-49,No,155,159,175
+11/8/2021 15:43:29,Female,State School,I do not have any dietary restrictions.,40-49,70+,70+,Yes,153,170,168
+11/8/2021 15:51:56,Male,Private School,Vegetarian,18-29,50-59,50-59,No,185,172,170
+11/8/2021 18:08:14,Female,Private School,I do not have any dietary restrictions.,50-59,70+,70+,Yes,159,164,169
+11/8/2021 18:37:59,Male,State School,I do not have any dietary restrictions.,18-29,50-59,70+,No,185,178,183
+11/8/2021 18:39:14,Male,Private School,I do not have any dietary restrictions.,30-39,60-69,60-69,Yes,180,165,188
+11/8/2021 21:04:15,Female,Private School,I do not have any dietary restrictions.,18-29,60-69,50-59,No,163,160,173
+11/8/2021 21:06:48,Female,State School,Vegetarian,18-29,50-59,50-59,No,171,158,191
+11/8/2021 21:08:07,Male,State School,I do not have any dietary restrictions.,18-29,40-49,40-49,No,188,171,195
+11/8/2021 21:08:20,Male,State School,Vegetarian,18-29,50-59,50-59,No,202,162.5,192.5
+11/8/2021 23:06:44,Female,State School,I do not have any dietary restrictions.,30-39,60-69,60-69,No,160,162,172
+11/9/2021 2:04:19,Female,State School,I do not have any dietary restrictions.,60-69,70+,70+,No,155,153,175
+11/9/2021 3:39:59,Female,Private School,Halal Food,50-59,70+,70+,No,158,156,165
+11/9/2021 12:04:55,Male,State School,I do not have any dietary restrictions.,18-29,50-59,60-69,No,186,160,178
+11/9/2021 20:01:02,Male,State School,I do not have any dietary restrictions.,30-39,60-69,70+,No,182,172,182
+11/10/2021 13:15:44,Female,Private School,I do not have any dietary restrictions.,40-49,70+,70+,No,165,156,172
